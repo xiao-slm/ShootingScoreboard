@@ -1,0 +1,11 @@
+name: "ShootingScoreboard"
+enabled: true
+
+#开服自动开启
+autoRun: false
+
+#服务器聊天框输出
+serverChat:
+  run: false
+  #最终距离=%l%，最终X=%x%，最终Y=%y%，射出箭矢的玩家名=%p%
+  text: "玩家“%p%”射出箭矢，距离靶心最终距离%l%"
