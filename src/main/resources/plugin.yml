@@ -1,0 +1,14 @@
+name: InfiniteShoot
+version: '0.1.1'
+main: me.jerryhan3.infiniteshoot
+api-version: '1.20'
+load: STARTUP
+authors: [Xiaoslm_666, JerryHan3]
+
+commands:
+  runScoreboard:
+    usage: /runScoreboard
+    description: 启动或关闭scoreboard
+  Scoreboardreload:
+    usage: /Scoreboardreload
+    description: 重载scoreboard配置
